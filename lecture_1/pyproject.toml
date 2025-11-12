@@ -1,0 +1,7 @@
+[project]
+name = "colorama-demo"
+version = "1.0.0"
+
+dependencies = [
+    "colorama>=0.4.6"
+]
